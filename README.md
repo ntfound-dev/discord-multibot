@@ -17,7 +17,7 @@
 
 9. Auto read new chat in server
 
-10. Probalitas with bot
+10. Probabilitas with bot
 
 # HOW TO USE ?
 
@@ -65,7 +65,7 @@ nano .env
 ).exports.default.getToken()
 ```
 
-#jangan lupa beri perintah di console 
+# Don't forget to give commands in the console 
 ```allow pasting ```
 
 
