@@ -33,8 +33,8 @@ Git clone bot discord , go to folder & Install module using venv :
 ```
 git clone https://github.com/ntfound-dev/discord-multibot.git
 cd discord-bot
-python3 -m venv shareithub
-source shareithub/bin/activate
+python3 -m venv push
+source push/bin/activate
 pip install -r requirements.txt
 ```
 Edit file `.env` copy & paste your Gemini API & Discord token :
