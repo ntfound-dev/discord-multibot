@@ -1,4 +1,4 @@
-dxjcommunity
+DXJCOMMUNITY
 python-dotenv
 colorama
 requests
