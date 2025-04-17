@@ -32,7 +32,7 @@ sudo apt install screen
 Git clone bot discord , go to folder & Install module using venv :
 ```
 git clone https://github.com/ntfound-dev/discord-multibot.git
-cd discord-bot
+cd discord-multibot
 python3 -m venv push
 source push/bin/activate
 pip install -r requirements.txt
